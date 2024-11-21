@@ -618,50 +618,50 @@ progress::-webkit-progress-value
     background-color: #6baace;
 }
 
-.percent-introvert
-{
-    color: #6baace;
-}
+/*.percent-introvert*/
+/*{*/
+/*    color: #6baace;*/
+/*}*/
 
 .realistic::-webkit-progress-value
 {
     background-color: #f0b95d;
 }
 
-.percent-realistic
-{
-    color: #f0b95d;
-}
+/*.percent-realistic*/
+/*{*/
+/*    color: #f0b95d;*/
+/*}*/
 
 .principles::-webkit-progress-value
 {
     background-color: #68b77e;
 }
 
-.percent-principles
-{
-    color: #68b77e;
-}
+/*.percent-principles*/
+/*{*/
+/*    color: #68b77e;*/
+/*}*/
 
 .planning::-webkit-progress-value
 {
     background-color: #a78db8;
 }
 
-.percent-planning
-{
-    color: #a78db8;
-}
+/*.percent-planning*/
+/*{*/
+/*    color: #a78db8;*/
+/*}*/
 
 .confident::-webkit-progress-value
 {
     background-color: #e07878;
 }
 
-.percent-confident
-{
-    color: #e07878;
-}
+/*.percent-confident*/
+/*{*/
+/*    color: #e07878;*/
+/*}*/
 
 .labels
 {
